@@ -1,6 +1,6 @@
 # Simple Java Web
 
-## Esse projeto é uma framework para simplificar java na web. Baseado na usabilidade do spring mvc
+## Esse projeto é um pequeno framework para simplificar java na web. Baseado na usabilidade do spring mvc
 
 ### exemplo
 
